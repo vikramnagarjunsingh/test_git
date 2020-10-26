@@ -6,3 +6,5 @@ divide(x,y)
 return x/y;
 subtract(x,y)
 return x-y;
+power(x,y)
+return x^y;
